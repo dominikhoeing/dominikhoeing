@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, my name is Dominik 👋
+_he/him_
 
 <!--
 **dominikhoeing/dominikhoeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on transitioning from academia to industry.
+🌱 I’m currently learning Data Science and AI with neuefische in Hamburg.
+💬 Ask me about anything related to physics, chemistry and nanoscience in particular.
+📫 How to reach me: check out my [LinkedIn profile](https://linkedin.com/in/dominikhoeing/)
